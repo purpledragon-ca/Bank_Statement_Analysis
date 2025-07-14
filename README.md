@@ -19,7 +19,7 @@ A Streamlit web application that automatically extracts, analyzes, and visualize
 
 1.  **Clone the repository:**
     ```bash
-    cd Bank_Statement_Analyser 
+    cd Bank_Statement_Analyzer 
     ```
 
 2.  **Install dependencies:**
