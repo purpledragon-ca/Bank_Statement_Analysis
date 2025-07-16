@@ -1,7 +1,7 @@
 # Bank Statement Analyzer
 
 A Streamlit web application that automatically extracts, analyzes, and visualizes your spending from PDF bank statements.
-
+---
 ![screenshot](demo/homepage.png) 
 
 ## Features
